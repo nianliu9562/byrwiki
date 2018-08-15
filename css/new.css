@@ -5,12 +5,12 @@
 
 .daohang{
 	width: 100px;
-	
-	
+
+
 }
 
 .table-content{
-	
+
 }
 
 .searchEngine{
@@ -33,6 +33,7 @@
 	/*display: table-cell;*/
 	box-sizing: border-box;
 	margin: unset;
+    transition: all linear 150ms;
 }
 
 .searchOpts{
@@ -55,3 +56,5 @@
 	/*display: table-cell;*/
 	box-sizing: unset;
 }
+
+
